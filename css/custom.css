@@ -1,0 +1,39 @@
+.main{
+  background-color:#ccc;
+  height:100vh;
+}
+@media only screen and (orientation:landscape){
+    .main{
+        height:100vw;
+    }
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color:#BE1B14;
+}
+.btn{
+    display:block;
+    margin:1% auto;
+}
+.btn-info{
+    margin-top:2%;
+    background-color: #BE1B14;
+}
+.imgcontainer{
+    float:none;
+    margin:0 auto;
+}
+.imgcontainer img{
+    width:100%;
+}
+@media screen and (max-width:544px){
+    .btn{
+        width:90%;
+    }
+}
+@media screen and (max-width:768px){
+    .container-fluid, .col-xs-12, .col-sm-12{
+        padding:0;
+    }
+}
