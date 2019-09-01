@@ -1,5 +1,6 @@
 # MKKP Ellenség Generátor
-TODO: Readme
+https://ketfarkukutya.mkkp.party/2016/08/29/minden-napra-uj-ellenseget/
+
 ## Original developers
-* Daniel Molnar
+* [dancsee89](https://github.com/dancsee89)
 * [dzsubek](https://github.com/dzsubek)
